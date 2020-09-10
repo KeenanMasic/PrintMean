@@ -13,6 +13,7 @@ public class PrintMean {
 
     public static String meanCalc( int a, int b, int c, int d) {
         //gör en sträng av "mean"
+        //test
 
         double mean = (a + b + c + d) / 4;
         String meanString = "" + (mean);
